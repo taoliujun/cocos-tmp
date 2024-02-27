@@ -1,0 +1,10 @@
+{
+  "name": "cocos1",
+  "uuid": "d7439217-caeb-4454-ac03-46482d776fd0",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "devDependencies": {
+    "@taoliujun/eslint-config": "^2.1.0"
+  }
+}
